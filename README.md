@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MPdeM
 - 👀 I’m interested in all things learning!!
 - 🌱 I’m currently learning diferent aspects of ml!! 
-- 💞️ I’m looking to collaborate on projects centered on health, fitness, human performance, or contact me if you have an interesting idea!
+- 💞️ I’m looking to collaborate on projects centered on health, fitness, human performance, ...  contact me if you have an interesting idea!
 - 📫 How to reach me mpmarinkovic@gmail.com
 
 <!---
